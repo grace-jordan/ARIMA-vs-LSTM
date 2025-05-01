@@ -1,2 +1,2 @@
 # ARIMA-vs-LSTM
-This senior project compares the MAPE of an ARIMA model and an LSTM model and compares their accuracy when comparing stock prices
+This senior project compares an ARIMA and LSTM stock price prediction accuracy by comparing their MAPE
